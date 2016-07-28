@@ -1,0 +1,86 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Software Entwicklung}{2}
+\contentsline {subsection}{\numberline {1.1}Allgemeine Begriffe}{2}
+\contentsline {subsubsection}{\numberline {1.1.1}Schwierigkeiten}{2}
+\contentsline {subsubsection}{\numberline {1.1.2}Komplexit\IeC {\"a}t}{2}
+\contentsline {subsubsection}{\numberline {1.1.3}Brook'sche Regel}{2}
+\contentsline {subsection}{\numberline {1.2}Vorgehensmodelle}{2}
+\contentsline {subsubsection}{\numberline {1.2.1}Projektphasen}{2}
+\contentsline {subsection}{\numberline {1.3}Wasserfall-Modell}{3}
+\contentsline {subsubsection}{\numberline {1.3.1}Iterativer Wasserfall}{3}
+\contentsline {subsection}{\numberline {1.4}V-Modell}{3}
+\contentsline {subsection}{\numberline {1.5}Iterative / Inkrementelle Entwicklung}{4}
+\contentsline {subsubsection}{\numberline {1.5.1}Spiralmodell}{4}
+\contentsline {subsection}{\numberline {1.6}Agile Softwareentwicklung}{4}
+\contentsline {subsubsection}{\numberline {1.6.1}XP (Extreme Programming)}{5}
+\contentsline {subsubsection}{\numberline {1.6.2}Scrum}{5}
+\contentsline {subsection}{\numberline {1.7}Objektorientierte Softwareentwicklung}{5}
+\contentsline {section}{\numberline {2}Testing}{6}
+\contentsline {subsection}{\numberline {2.1}Allgemeine Begriffe}{6}
+\contentsline {subsubsection}{\numberline {2.1.1}Wahrscheinlichkeit von Fehlern}{6}
+\contentsline {subsubsection}{\numberline {2.1.2}Ziel}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}Anforderungen}{6}
+\contentsline {subsubsection}{\numberline {2.1.4}Arten von Tests}{6}
+\contentsline {subsubsection}{\numberline {2.1.5}Massnahmen zur Softwarepr\IeC {\"u}fung}{6}
+\contentsline {subsubsection}{\numberline {2.1.6}Wer Testet}{6}
+\contentsline {subsubsection}{\numberline {2.1.7}Verifikation und Validierung}{6}
+\contentsline {subsection}{\numberline {2.2}Methoden}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Blackbox Tests}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Whitebox Tests}{7}
+\contentsline {subsection}{\numberline {2.3}Automatisiertes Testing}{7}
+\contentsline {subsection}{\numberline {2.4}Testwerkzeuge}{7}
+\contentsline {section}{\numberline {3}Unit-Testing mit CppUnit}{8}
+\contentsline {subsection}{\numberline {3.1}Frameworks allgemein}{8}
+\contentsline {subsection}{\numberline {3.2}Frameworks Arbeitsweise}{8}
+\contentsline {subsection}{\numberline {3.3}CppUnit Wichtige Begriffe}{8}
+\contentsline {subsection}{\numberline {3.4}CppUnit Konvention}{8}
+\contentsline {section}{\numberline {4}Dokumentation mit Doxygen}{8}
+\contentsline {subsection}{\numberline {4.1}Allgemeines zu Dokumentation Zweck}{8}
+\contentsline {subsection}{\numberline {4.2}Eigenschaften von Doxygen}{9}
+\contentsline {section}{\numberline {5}Projektmanagement}{9}
+\contentsline {subsection}{\numberline {5.1}Grundlagen Projektmanagement}{9}
+\contentsline {subsubsection}{\numberline {5.1.1}Die Merkmale eines Projekts}{9}
+\contentsline {subsubsection}{\numberline {5.1.2}Die drei Eckpfeiler eines Projekts}{9}
+\contentsline {subsection}{\numberline {5.2}Die Projektbeteiligten}{9}
+\contentsline {subsection}{\numberline {5.3}Projektorganisationsformen}{10}
+\contentsline {subsection}{\numberline {5.4}Projektphasen}{10}
+\contentsline {section}{\numberline {6}Versionskontrollsysteme mit Git}{11}
+\contentsline {subsection}{\numberline {6.1}Versionskontrollsysteme}{11}
+\contentsline {subsection}{\numberline {6.2}Centralized vs. distributed VCS}{12}
+\contentsline {subsection}{\numberline {6.3}Git Grundkonzept}{12}
+\contentsline {subsubsection}{\numberline {6.3.1}Konkretes Beispiel}{13}
+\contentsline {subsection}{\numberline {6.4}Git Befehle (vor den Befehl kommt immer "git" Bsp. "git init")}{14}
+\contentsline {section}{\numberline {7}Qt}{15}
+\contentsline {subsection}{\numberline {7.1}2 Arten von QT-Programmen}{15}
+\contentsline {subsection}{\numberline {7.2}Qt-Namen Konvention}{15}
+\contentsline {subsection}{\numberline {7.3}Zwei Arten von Qt-Klassen}{15}
+\contentsline {subsection}{\numberline {7.4}Qt Building}{15}
+\contentsline {subsection}{\numberline {7.5}GUI Frameworks 1 und 2 (Grund Probleme)}{15}
+\contentsline {subsection}{\numberline {7.6}Qt Layout Manager}{15}
+\contentsline {subsection}{\numberline {7.7}Memory Management bei Qt}{16}
+\contentsline {subsection}{\numberline {7.8}Top-Level-Windows}{17}
+\contentsline {subsection}{\numberline {7.9}Signals and Slots}{17}
+\contentsline {subsection}{\numberline {7.10}Drawing and Painting}{18}
+\contentsline {subsubsection}{\numberline {7.10.1}Arbeiten mit QPainter}{18}
+\contentsline {section}{\numberline {8}Examples}{19}
+\contentsline {subsection}{\numberline {8.1}CppUnit}{19}
+\contentsline {subsection}{\numberline {8.2}Bsp. Chusep Ohne CppUnit nur mit assert.h \\testMyDate.cpp}{20}
+\contentsline {subsection}{\numberline {8.3}MyDate.h}{26}
+\contentsline {subsection}{\numberline {8.4}MyDate.cpp}{27}
+\contentsline {subsection}{\numberline {8.5}Doxygen}{32}
+\contentsline {subsubsection}{\numberline {8.5.1}mainpage.h}{32}
+\contentsline {subsubsection}{\numberline {8.5.2}Keyboard.h}{32}
+\contentsline {subsubsection}{\numberline {8.5.3}Keyboard.cpp}{33}
+\contentsline {subsection}{\numberline {8.6}Qt}{36}
+\contentsline {subsection}{\numberline {8.7}Hello World in Qt}{36}
+\contentsline {subsubsection}{\numberline {8.7.1}main.cpp}{36}
+\contentsline {subsection}{\numberline {8.8}Manuelles Layout}{36}
+\contentsline {subsection}{\numberline {8.9}Manuelles Layout2}{37}
+\contentsline {subsection}{\numberline {8.10}Zeichnen}{37}
+\contentsline {subsubsection}{\numberline {8.10.1}TemperaturWidget.h}{38}
+\contentsline {subsubsection}{\numberline {8.10.2}TemperaturWidget.cpp}{38}
+\contentsline {section}{\numberline {9}QtBibliothek}{41}
+\contentsline {subsection}{\numberline {9.1}Widgets}{41}
+\contentsline {subsection}{\numberline {9.2}draw.. Methoden}{41}
+\contentsline {subsection}{\numberline {9.3}QPen Arten}{42}
+\contentsline {subsection}{\numberline {9.4}QBrush}{42}
